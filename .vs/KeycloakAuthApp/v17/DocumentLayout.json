@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|c:\\users\\minhpq.vp\\source\\repos\\keycloakauthapp\\keycloakauthapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|solutionrelative:keycloakauthapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|c:\\users\\minhpq.vp\\source\\repos\\keycloakauthapp\\keycloakauthapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|solutionrelative:keycloakauthapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|c:\\users\\minhpq.vp\\source\\repos\\keycloakauthapp\\keycloakauthapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|solutionrelative:keycloakauthapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|c:\\users\\minhpq.vp\\source\\repos\\keycloakauthapp\\keycloakauthapp\\keycloakauthapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{152BD1F2-C556-4BBA-864F-83DBBD19C23C}|KeycloakAuthApp\\KeycloakAuthApp.csproj|solutionrelative:keycloakauthapp\\keycloakauthapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeycloakAuthApp.csproj",
+              "DocumentMoniker": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\KeycloakAuthApp.csproj",
+              "RelativeDocumentMoniker": "KeycloakAuthApp\\KeycloakAuthApp.csproj",
+              "ToolTip": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\KeycloakAuthApp.csproj",
+              "RelativeToolTip": "KeycloakAuthApp\\KeycloakAuthApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T04:37:34.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KeycloakAuthApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KeycloakAuthApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:23:09.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\Program.cs",
+              "RelativeDocumentMoniker": "KeycloakAuthApp\\Program.cs",
+              "ToolTip": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\Program.cs",
+              "RelativeToolTip": "KeycloakAuthApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:22:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\appsettings.json",
+              "RelativeDocumentMoniker": "KeycloakAuthApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\minhpq.VP\\source\\repos\\KeycloakAuthApp\\KeycloakAuthApp\\appsettings.json",
+              "RelativeToolTip": "KeycloakAuthApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T04:10:07.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
